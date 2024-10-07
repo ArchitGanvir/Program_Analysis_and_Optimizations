@@ -1,0 +1,4 @@
+foo
+p -> {y}
+y -> {p}
+main

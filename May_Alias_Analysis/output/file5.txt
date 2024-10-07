@@ -1,0 +1,4 @@
+foo
+p -> {q}
+q -> {p}
+main
